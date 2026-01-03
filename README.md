@@ -6,3 +6,6 @@ The syntax is `/send <players> <server>`, where \<players> is any Minecraft play
 
 ## How it works:
 Both halves talk to each other via Bukkit's plugin channel messages. Velocity will send the list of servers to each Paper server, and Paper will send what player(s) and what server were argued in the command back to Velocity.
+
+## Contact me!
+If you're looking for older versions (or even newer!), or different server side loaders (e.g Spigot, or even just plain Bukkit), contact me at info@thatgalblu.com or join my [Discord server](https://discord.com/invite/3fKNRsuwf9) to let me know and I'll start working on that as soon as I can!
