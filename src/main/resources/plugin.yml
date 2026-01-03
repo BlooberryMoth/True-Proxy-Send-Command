@@ -1,0 +1,4 @@
+name: TPSC
+version: '1.0'
+main: com.thatgalblu.tpsc.Paper
+api-version: '1.21'
